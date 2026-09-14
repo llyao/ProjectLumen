@@ -8,8 +8,8 @@ from pathlib import Path
 
 
 项目目录 = Path(__file__).resolve().parents[1]
-原始文档 = 项目目录 / "朵朵" / "6年级" / "记录" / "2026-09-14-英语阅读信心周计划.md"
-输出目录 = 项目目录 / "朵朵" / "6年级" / "记录" / "英语阅读信心周PDF"
+原始文档 = 项目目录 / "朵朵" / "6年级" / "记录" / "英语" / "2026-09-14-英语阅读信心周计划.md"
+输出目录 = 项目目录 / "朵朵" / "6年级" / "记录" / "英语" / "英语阅读信心周PDF"
 浏览器路径 = Path(r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe")
 
 

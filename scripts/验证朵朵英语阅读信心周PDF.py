@@ -9,7 +9,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 
 项目目录 = Path(__file__).resolve().parents[1]
-PDF目录 = 项目目录 / "朵朵" / "6年级" / "记录" / "英语阅读信心周PDF"
+PDF目录 = 项目目录 / "朵朵" / "6年级" / "记录" / "英语" / "英语阅读信心周PDF"
 预期文件 = [
     "00-阅读解题方法.pdf",
     "01-第1天-我的学校生活.pdf",
